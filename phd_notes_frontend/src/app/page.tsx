@@ -1,9 +1,7 @@
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white flex items-center justify-center">
-      <h1 className="text-black text-4xl font-light">
-        phd_notes_frontend is being generated
-      </h1>
+    <main>
+      <h1>PhD Notes Frontend (Placeholder)</h1>
     </main>
   );
 }
